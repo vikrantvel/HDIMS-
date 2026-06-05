@@ -1,4 +1,4 @@
-HDIMS (Healthcare Disease Intelligence & Monitoring System)
+# HDIMS (Healthcare Disease Intelligence & Monitoring System)
 
 
 
